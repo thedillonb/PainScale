@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PainScale.iOS", "PainScale.iOS\PainScale.iOS.csproj", "{D0D961BE-7175-4C1B-9E37-24F074FEC62E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0D961BE-7175-4C1B-9E37-24F074FEC62E}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{D0D961BE-7175-4C1B-9E37-24F074FEC62E}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{D0D961BE-7175-4C1B-9E37-24F074FEC62E}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{D0D961BE-7175-4C1B-9E37-24F074FEC62E}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{D0D961BE-7175-4C1B-9E37-24F074FEC62E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D0D961BE-7175-4C1B-9E37-24F074FEC62E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{D0D961BE-7175-4C1B-9E37-24F074FEC62E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D0D961BE-7175-4C1B-9E37-24F074FEC62E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D0D961BE-7175-4C1B-9E37-24F074FEC62E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D0D961BE-7175-4C1B-9E37-24F074FEC62E}.Release|iPhone.Build.0 = Release|iPhone
+		{D0D961BE-7175-4C1B-9E37-24F074FEC62E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D0D961BE-7175-4C1B-9E37-24F074FEC62E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = PainScale.iOS\PainScale.iOS.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$1.ResourceNamePolicy = FileFormatDefault
+	EndGlobalSection
+EndGlobal
